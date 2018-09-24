@@ -60,6 +60,10 @@
 
 html {
   font-size: 12px;
+  background-image: url('coinbakery.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+
 }
 
 @media screen and (min-width: 32rem) and (max-width: 48rem) {
@@ -76,6 +80,7 @@ html {
 
 body {
   line-height: 1.85rem;
+  height: 800px;
 }
 
 p,
